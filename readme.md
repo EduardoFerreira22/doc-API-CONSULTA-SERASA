@@ -189,7 +189,7 @@ Headers:
 
  `delete` **/delete-user/:user**
 
-Exemplo: /deleteuser/gstv
+Exemplo: /delete-user/gstv
 
 Deleta um usuario
 
