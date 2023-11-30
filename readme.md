@@ -86,7 +86,7 @@ Headers:
 
  `get` **/consultas**
 
-Verifica o numero de consultas feitas e o saldo disponivel
+Verifica o numero de consultas feitas e o saldo em centavos disponivel
 
 Headers:
 ```
